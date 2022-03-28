@@ -1,1 +1,0 @@
-export const SERVICE_ADDRESS  = 'https://api.oneland.world/api/v1/';
